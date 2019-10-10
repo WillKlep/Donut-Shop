@@ -1,0 +1,8 @@
+﻿  MP1.cpp
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(93,17): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(23,9): warning C4101:  'regSalesTax': unreferenced local variable
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(21,9): warning C4101:  'regTotal': unreferenced local variable
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(21,55): warning C4101:  'totalSalesTax': unreferenced local variable
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(21,19): warning C4101:  'fanTotal': unreferenced local variable
+C:\Users\w-klepinger\Downloads\MP1\MP1\MP1.cpp(23,22): warning C4101:  'fanSalesTax': unreferenced local variable
+  MP1.vcxproj -> C:\Users\w-klepinger\Downloads\MP1\Debug\MP1.exe
